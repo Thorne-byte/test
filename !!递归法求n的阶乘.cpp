@@ -1,4 +1,4 @@
-/*�ݹ鷨��n�Ľ׳�*/
+/*递归法求n的阶乘*/
 #include <iostream>
 using namespace std;
 int fac(int n)
